@@ -1,8 +1,10 @@
 # contentDetectionApp
 
-Andriod App for UI
-Firebase Database for storing image and data 
-Azure cognitive servcie for content detection
+#MLHacks
+
+Andriod App for UI,
+Firebase Database for storing image and data, 
+Azure cognitive servcie for content detection.
 
 
 Cognitive Vision API Document
