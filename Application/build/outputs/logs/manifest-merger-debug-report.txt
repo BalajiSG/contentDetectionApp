@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\d2dd79e8a6bde3e8ab02beadbf740282\support-v13-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\f32912c11ffd404ae389b743e59c305d\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\fd473bf579b21d872c11915b47d3d7fc\cardview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\25e9acbd0d4f1bb946cd20262e6c2cc3\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\8e05950d560f114e41f869003391cfff\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\5c11986f6c20984f66c7a48af30bb882\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\249882b94c880c0df2caca4ca874e339\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\aa2d47beb2c3fc8d8d3007fc593f8ae3\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\dd85d3f0ca42e4d484154222a327a0c3\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\35f891659ed17f40f843c518c3926314\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\3434b172a7005ce00d31765ac8d8bf51\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\1e1cb4b7e7798d5ada3709c2c1e8b2ae\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:26:5-38:19
+	android:label
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:31:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\d2dd79e8a6bde3e8ab02beadbf740282\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\d2dd79e8a6bde3e8ab02beadbf740282\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\f32912c11ffd404ae389b743e59c305d\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\f32912c11ffd404ae389b743e59c305d\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\fd473bf579b21d872c11915b47d3d7fc\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\fd473bf579b21d872c11915b47d3d7fc\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\25e9acbd0d4f1bb946cd20262e6c2cc3\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\25e9acbd0d4f1bb946cd20262e6c2cc3\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\8e05950d560f114e41f869003391cfff\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\8e05950d560f114e41f869003391cfff\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\5c11986f6c20984f66c7a48af30bb882\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\5c11986f6c20984f66c7a48af30bb882\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\249882b94c880c0df2caca4ca874e339\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\249882b94c880c0df2caca4ca874e339\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\aa2d47beb2c3fc8d8d3007fc593f8ae3\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\aa2d47beb2c3fc8d8d3007fc593f8ae3\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\dd85d3f0ca42e4d484154222a327a0c3\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\dd85d3f0ca42e4d484154222a327a0c3\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\35f891659ed17f40f843c518c3926314\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\35f891659ed17f40f843c518c3926314\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\3434b172a7005ce00d31765ac8d8bf51\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\3434b172a7005ce00d31765ac8d8bf51\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\1e1cb4b7e7798d5ada3709c2c1e8b2ae\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nashj\.gradle\caches\transforms-2\files-2.1\1e1cb4b7e7798d5ada3709c2c1e8b2ae\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nashj\Downloads\HackaThone\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
