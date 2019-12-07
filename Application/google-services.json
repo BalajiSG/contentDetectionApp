@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812443830078",
+    "firebase_url": "https://cognitive-fr-app.firebaseio.com",
+    "project_id": "cognitive-fr-app",
+    "storage_bucket": "cognitive-fr-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812443830078:android:0838e3ac577f7dbe248e6f",
+        "android_client_info": {
+          "package_name": "com.cognitive.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812443830078-dl83e6o31tvfcld1j1qfkvgs5lsgqsg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOO5S9pkjut_ydRjVZTf-ih5nIdamGYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812443830078-dl83e6o31tvfcld1j1qfkvgs5lsgqsg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
